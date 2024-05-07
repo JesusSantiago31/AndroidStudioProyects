@@ -1,0 +1,1 @@
+En esta aplicacion se muestra la estructura base para desarrollar una app haciendo uso de un view llamado spinner
