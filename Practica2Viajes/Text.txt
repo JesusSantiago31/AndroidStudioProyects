@@ -1,0 +1,1 @@
+Aquí se presenta una estructura diferente de una aplicación en la cual se consume un API pública
