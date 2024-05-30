@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My SecondApplication</string>
+    <string name="app_titul">BIBLIOTECA TESJI</string>
+    <string name="app_numlib">NUMERO DEL LIBRO</string>
+    <string name="app_titlub">TITULO</string>
+    <string name="app_autlib">AUTOR</string>
+    <string name="app_edilib">EDICION</string>
+    <string name="app_anilib">AÑO</string>
+    <string name="app_text_boton1">REGISTRAR</string>
+    <string name="app_text_boton2">NUEVO</string>
+
+
+</resources>
